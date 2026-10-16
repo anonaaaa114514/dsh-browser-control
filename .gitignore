@@ -1,0 +1,5 @@
+node_modules/
+.dsh-browser/
+*.log
+*.bak
+.certs/
